@@ -7,8 +7,6 @@ Things you may want to cover:
 
 * Ruby version
 
-* System dependencies
-
 * Database creation
 
 * Database initialization
